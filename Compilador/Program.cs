@@ -12,7 +12,7 @@ namespace Compilador
     {
         static void Main(string[] args)
         {
-            string entrada = File.ReadAllText(@"C:\Users\carp_\OneDrive\Documentos\Neo\prueba.txt");
+            string entrada = File.ReadAllText(@"..\..\prueba.txt");
 
             Console.WriteLine("Entrada:\n");
             Console.WriteLine(entrada);

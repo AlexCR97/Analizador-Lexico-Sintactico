@@ -1,0 +1,4 @@
+int x;
+double pi = 3.1416;
+float numero = 8.1;
+string mensaje = "Hola mundo";
